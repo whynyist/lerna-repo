@@ -1,6 +1,6 @@
 {
   "name": "project1",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "whynyist <whynyist@163.com>",
   "homepage": "",
@@ -17,6 +17,6 @@
     "registry": "https://registry.npmmirror.com/"
   },
   "scripts": {
-    "test": "node ./__tests__/project1.test.js"
+    "test1": "node ./__tests__/project1.test.js"
   }
 }
